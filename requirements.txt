@@ -12,7 +12,7 @@ keyrings.alt==3.0
 Markdown==2.6.9
 pycrypto==2.6.1
 Pygments==2.2.0
-pygobject==3.26.1
+
 pyxdg==0.25
 PyYAML==3.12
 SecretStorage==2.3.1
