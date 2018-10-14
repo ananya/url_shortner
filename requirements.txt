@@ -1,4 +1,8 @@
+certifi==2018.8.24
 Django==2.0.9
+pipenv==2018.10.13
 
 pytz==2018.5
+virtualenv==16.0.0
+virtualenv-clone==0.3.0
 whitenoise==4.1
