@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+verify_ssl = true
+url = "https://pypi.org/simple"
+
+[dev-packages]
+
+[packages]
+requests = "*"
+dj-database-url = "*"
+django-heroku = "*"
+gunicorn = "*"
+
+[requires]
+python_version = "3.5"
