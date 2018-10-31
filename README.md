@@ -1,1 +1,2 @@
-# url_shortner using django
+# url_shortner
+Django based url shortner
