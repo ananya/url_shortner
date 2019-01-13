@@ -1,2 +1,2 @@
 # url_shortner
-Django based url shortner
+Url shortner made using Django
