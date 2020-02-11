@@ -10,7 +10,7 @@ pytz = "==2018.5"
 virtualenv = "==16.0.0"
 virtualenv-clone = "==0.3.0"
 whitenoise = "==4.1"
-Django = "==2.0.9"
+Django = "==2.2.10"
 requests = "*"
 
 [dev-packages]
