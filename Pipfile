@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 certifi = "==2018.8.24"
-pipenv = "==2018.10.13"
+pipenv = "==2022.1.8"
 pytz = "==2018.5"
 virtualenv = "==16.0.0"
 virtualenv-clone = "==0.3.0"
